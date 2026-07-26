@@ -8,4 +8,3 @@
     "build": "npx vite build",
     "preview": "vite preview"
   }
-}
